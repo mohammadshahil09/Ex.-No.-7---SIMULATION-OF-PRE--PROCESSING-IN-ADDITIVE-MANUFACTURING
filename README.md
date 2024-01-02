@@ -1,10 +1,10 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 28-11-2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
 ## REQUIREMENTS:
-### System - Windows 7 or higher, 1 GB RAM.
+### System - Windows 11 or higher, 16 GB RAM.
 
 ## PROCEDURE:
 ### Pre-processing encompasses the steps between design and printing. Process of 3D printing starts with designing in CAD. Then printer software slices 3D CAD file into layers. For each slice, the software converts the data into machine code that determines tool paths for the machine to follow. The various steps in pre-processing from design to printing are as follows:
@@ -38,15 +38,22 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+
 
 ## Output:
+![Screenshot 2023-11-28 224007](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742402/80da2773-1143-472b-9ce0-8d533621211d)
+![Screenshot 2023-11-28 224043](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742402/53f70b1b-32d5-407f-8dc1-3018774ab7f1)
+![Screenshot 2023-11-28 224053](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742402/d64f762f-93ac-4eb1-8470-3f20b3bc0686)
+![Screenshot 2023-11-28 224138](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742402/fcafd01a-67dc-42c3-be20-42c0fa576f3f)
+![Screenshot 2023-11-28 224145](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742402/2c8687c5-b475-4298-8165-a2b0b2e72745)
 
-### Name:
-### Register Number:
+
+
+
+
+
+### Name:P. guntur shaik mohammad shahil
+### Register Number:212223240044
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
